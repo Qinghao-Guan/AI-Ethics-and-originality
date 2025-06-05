@@ -1,7 +1,7 @@
 # AI-Ethics-and-originality
 This repo is for the data from the paper: *From AI to Authorship: Exploring the Use of LLM Detection Tools for Calling on “Originality” of Students in Academic Environments*.
 
-- **dataset**: This folder contains the survey data collected for our research.
+- **dataset**: This folder contains the survey data collected for our research and human/AI-written essays.
 
 - **code**: This folder includes the Python scripts used to generate the figures.
 
